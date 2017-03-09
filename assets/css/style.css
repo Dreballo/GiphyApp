@@ -1,0 +1,41 @@
+*{
+
+
+	font-family: sans-serif;
+
+
+
+}
+
+
+
+
+
+button {
+
+	background-color: lightblue;
+	color: #ffffff;
+	size: 300%;
+
+}
+
+
+body{
+
+	background-color: lightgray;
+
+
+}
+
+#search-form {
+
+	position: relative;
+	float: right;
+
+
+}
+
+.container {
+
+	width: 960px;
+}
