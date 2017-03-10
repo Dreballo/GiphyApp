@@ -49,7 +49,7 @@ $(document).ready(function() {
         var category = $(this).attr('data-name');
 
         // Constructing a queryURL using the data name
-        var queryURL = "http://api.giphy.com/v1/gifs/search?q=" +
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" +
             category + "&api_key=dc6zaTOxFJmzC&limit=10";
 
         // Performing an AJAX request with the queryURL
